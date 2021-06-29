@@ -5,6 +5,7 @@ I find out Databases about Kaggle, Google, and others, and chose a study with a 
 Questions:
 How many terrain we have and how it change aroun the years. We have 510 millions of Km² in Earth, about ~ 70% is under water namely we have around 150 millions of Km². 
 Humans comprise a very small share of life on Earth — 0.01% of the total
+
 - que tanto por ciento hemos cambiado y como
 - como a afectado a los animales
 - que animales hemos extinguido
