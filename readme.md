@@ -8,7 +8,7 @@ https://www.iucnredlist.org/
 https://dataverse.harvard.edu/dataverse/ArchaeoGLOBE
 
 ## Terrain loss in Years by human action.
-<img src="https://github.com/RexTor78/Habitats-Extinctions/blob/c3e9cd64ca4c21cfd9048e8f9b563e10d0e059da/Images/terrain%20loss-1.jpg" width="500" height="320"/>
+<img src="https://github.com/RexTor78/Habitats-Extinctions/blob/da9bd016de22de65758927dc60eff5678c3aa2bb/Images/Land-dash.png" width="500" height="320"/>
 Questions:
 How many terrain we have and how it change aroun the years. 
 We have 510 millions of Km² in Earth, about ~ 70% is under water namely we have around 150 millions of Km². 
