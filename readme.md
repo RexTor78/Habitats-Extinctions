@@ -1,6 +1,8 @@
 In this project I try to visualice how animals adapt to changes and loss their terrains for action of humans.
 I find out Databases about Kaggle, Google, and others, and chose a study with a data base in https://ourworldindata.org/
+
 https://www.iucnredlist.org/
+
 https://dataverse.harvard.edu/dataverse/ArchaeoGLOBE
 
 ## Terrain loss in Years by human action.
@@ -10,14 +12,21 @@ How many terrain we have and how it change aroun the years.
 We have 510 millions of Km² in Earth, about ~ 70% is under water namely we have around 150 millions of Km². 
 Humans comprise a very small share of life on Earth — 0.01% of the total
 I like to show us in this questions:
+
 - How much percent we have changed and how?
+- 
 - How it affected the animals?
+- 
 - What animals have we extinguished?
+- 
 - Is there any relationship between all this?
 
 Here the [Kanban][1] project. 
+
 You can see data to this project in related [folder][2]
+
 Here directly to [presentation][3]
+
 And if you woould read a littel more not much, you can see this **[Medium link][4]**
 
 [1]:https://trello.com/b/zE4X1GgT/habitats-extinctions
