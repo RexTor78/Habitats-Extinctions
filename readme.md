@@ -27,8 +27,7 @@ I like to show us in this questions:
 
 Here the [Kanban][1] project. 
 
-You can see any work in [Tableau][5]  
-img src="https://github.com/RexTor78/Habitats-Extinctions/blob/50a1ff91c6a487a201659bf317dc641770b3b5c0/Images/qrcode_rextor.medium.com.png" width="80" height="80"/>
+You can see any work in [Tableau][5] <pre>      <img src="https://github.com/RexTor78/Habitats-Extinctions/blob/50a1ff91c6a487a201659bf317dc641770b3b5c0/Images/qrcode_rextor.medium.com.png" width="80" height="80"/>
 
 You can see data to this project in related [folder][2]
 
