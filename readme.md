@@ -27,7 +27,7 @@ I like to show us in this questions:
 
 Here the [Kanban][1] project. 
 
-You can see any work in [Tableau][5]
+You can see any work in [Tableau][5] <img src="C:\\Users\hecto\PreWorks\W4\Images/qrcode_rextor.medium.com.png" width="500" height="320"/>
 
 You can see data to this project in related [folder][2]
 
